@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2816
+
+This script executes a selection in Python and then pastes the result after that selection or replaces the selection. Useful for testing small software snippets and documenting them in the same buffer.
+
+It is based on http://vim.wikia.com/wiki/Execute_Python_from_within_current_file
